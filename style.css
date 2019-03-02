@@ -1,0 +1,45 @@
+.container {
+  margin: 15 auto;
+  font-family: fantasy;
+  font: purple;
+  background: rgb(32, 9, 94);
+}
+
+h1 {
+  padding: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: goldenrod;
+  font: #000;
+
+}
+
+#footer {
+  padding: 15px;
+  margin: 15 auto;
+  font-family: 'Times New Roman', Times, serif
+
+}
+
+.form-group {
+  background: #504747;
+  display: block;
+  width: 750px;
+
+
+}
+
+.body {
+  align-content: center;
+  padding: 0 auto;
+
+}
+
+#main-container {
+  margin: 20px;
+  padding: 15px;
+  line-break: auto;
+
+}
+  .row {
+    margin-top: 15px
+  }
